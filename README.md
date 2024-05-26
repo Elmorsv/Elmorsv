@@ -4,7 +4,7 @@
 
 Hi, I'm Mohamed Elmorsy from Egypt, specializing in frontend development and UI/UX design. I excel in implementing native UI designs using HTML/CSS, blending creativity with technical prowess for seamless user experiences.
 ---
-<img margin-right="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img margin-right="20px" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 Skills: JS / HTML / CSS - Adobe Photoshop / Adobe Illustrator / Figma
 
 - 🌱 I’m currently learning Javascript. 
