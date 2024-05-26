@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋, my name is Mohamed Elmorsy
+#### Elmorsv
+![Elmorsv]()
 
-<!--
-**Elmorsv/Elmorsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Mohamed Elmorsy from Egypt, specializing in frontend development and UI/UX design. I excel in implementing native UI designs using HTML/CSS, blending creativity with technical prowess for seamless user experiences.
 
-Here are some ideas to get you started:
+Skills: JS / HTML / CSS - Adobe Photoshop / Adobe Illustrator / Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Javascript. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elmorsv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/elmorsv.0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ELmorsv0)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elmorsv)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elmorsv&show_icons=true)  
+
