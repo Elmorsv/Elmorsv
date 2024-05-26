@@ -12,9 +12,12 @@ Hi, I'm Mohamed Elmorsy from Egypt, specializing in frontend development and UI/
 <img align="left" style="padding-right:20px;" alt="tailwind css" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img align="left" style="padding-right:20px;" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" style="padding-right:20px;" alt="adobe photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+<img align="left" style="padding-right:20px;" alt="adobe illustrator" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+
 
 <br/>
 
+#
 ---
 
 Skills: JS / HTML / CSS - Adobe Photoshop / Adobe Illustrator / Figma
